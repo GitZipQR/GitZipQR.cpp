@@ -1,0 +1,1 @@
+export interface ITelegramGameLeaderboard { rank: number; user_id: number; total_winnings: number; } 

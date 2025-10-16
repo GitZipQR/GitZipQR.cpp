@@ -1,0 +1,1 @@
+export interface ITelegramGameDailyBonuses { user_id: number; /* Assuming user_id as primary key */ }

@@ -1,0 +1,1 @@
+export interface ITelegramGameTransactions { transaction_id: number; user_id: number; amount: number; type: string; created_at: Date; } 
